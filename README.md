@@ -1,15 +1,20 @@
-![ViewCount](https://views.whatilearened.today/views/github/hqKing0424/hqKing0424.svg?cache=remove)
 ### Hi there 👋I'm hqKing(HanQing Wang)
-## I'm a Robotics and AI Enthusiast!
-- I’m currently an undergraduate at Huazhong University of Science and Technology(HUST), School of Artificial Intelligience and Automation
+#### I'm a Robotics and AI Enthusiast!
 <br />
-<!--
+
+- 🍻 Junior at CN [HUST](https://www.hust.edu.cn), _BSc in Automation_
+- ⚡ C / Python.
+- 🏃 Hiking / Climbing / Basketball / Guitar / Photography / Cycling
+- 🌱 Embodied AI & AGI
+- 😄 Feel free to contact me!
+
+![hqKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=hq-King&show_icons=true&theme=ambient_gradient)<!--
 **hqking0424/hqking0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
