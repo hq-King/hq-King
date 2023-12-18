@@ -1,5 +1,8 @@
-### Hi there 👋
-
+![ViewCount](https://views.whatilearened.today/views/github/hqKing0424/hqKing0424.svg?cache=remove)
+### Hi there 👋I'm hqKing(HanQing Wang)
+## I'm a Robotics and AI Enthusiast!
+- I’m currently an undergraduate at Huazhong University of Science and Technology(HUST), School of Artificial Intelligience and Automation
+<br />
 <!--
 **hqking0424/hqking0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
