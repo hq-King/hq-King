@@ -8,7 +8,11 @@
 - 🌱 Embodied AI & AGI
 - 😄 Feel free to contact me!
 
-![hqKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=hq-King&show_icons=true&theme=ambient_gradient)<!--
+![hqKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=hq-King&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hq-King&layout=compact&langs_count=8)
+## My ![Visitor Count](https://profile-counter.glitch.me/hq-King/count.svg) Visitors
+
+<!--
 **hqking0424/hqking0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
