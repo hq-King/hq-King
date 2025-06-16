@@ -3,6 +3,8 @@
 <br />
 
 - 🍻 Junior at CN [HUST](https://www.hust.edu.cn), _BSc in Automation_
+- 🍻 Mphil Student at HKUST, guangzhou campus.
+
 - ⚡ C / Python.
 - 🏃 Hiking / Climbing / Basketball / Guitar / Photography / Cycling
 - 🌱 Embodied AI & AGI
